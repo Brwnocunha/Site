@@ -1,0 +1,16 @@
+p{
+    background-color: rgb(50, 233, 123);
+    margin-bottom: auto;
+}
+
+body {
+    background-color: rgb(167, 225, 79);
+}
+h1 {
+    border: 1px solid black;
+    border-radius: 5%;
+    border-width: 10px;
+    width: fit-content;
+    margin: auto;
+}
+
