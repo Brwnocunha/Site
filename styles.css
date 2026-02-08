@@ -2,10 +2,13 @@ p{
     background-color: rgb(50, 233, 123);
     margin-bottom: auto;
 }
-
-body {
-    background-color: rgb(167, 225, 79);
-}
+.bg{
+    width: 100%;
+    height: 900px;
+    background-repeat: repeat-x repeat-y;
+    background-position: center;
+    filter: blur(4px);
+  }
 h1 {
     border: 1px solid black;
     border-radius: 5%;
