@@ -1,2 +1,4 @@
 # Site
-Primeiro repositório versionado
+Primeiro repositório versionado.
+
+Este é um site de aprendizado.
