@@ -3,12 +3,13 @@ p{
     margin-bottom: auto;
 }
 .bg{
-    width: 100%;
-    height: 900px;
-    background-repeat: repeat-x repeat-y;
-    background-position: center;
-    filter: blur(4px);
-  }
+    background-image: url(../Site/IMG/Que-es-la-topografia-y-cuales-son-sus-objetivos-II-1-800x534.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center center;
+    filter: blur(2px);
+}
+
 h1 {
     border: 1px solid black;
     border-radius: 5%;
